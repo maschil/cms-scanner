@@ -22,6 +22,11 @@ Contacts
 -----
 ``` exe
 Telegram : https://t.me/dhenbhocil
+Group : https://t.me/smtpfree7
 YouTube : https://youtube.com/channel/UCMevdvbbnsM0iiQ5G_mC7pA
-Donation : https://saweria.co/dhenbhocil
+```
+Donation
+-----
+``` exe
+<img src="https://img.shields.io/badge/Donate-Mee Guys-yellow?style=for-the-badge&amp;logo=Saweria" alt="Donate">
 ```
