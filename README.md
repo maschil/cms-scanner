@@ -1,4 +1,4 @@
-# Mass Multi Cms Scannerner
+# Mass Multi Cms Scanner
 
 Feature
 -------------------
@@ -28,5 +28,5 @@ YouTube : https://youtube.com/channel/UCMevdvbbnsM0iiQ5G_mC7pA
 Donation
 -----
 ``` exe
-<img src="https://img.shields.io/badge/Donate-Mee Guys-yellow?style=for-the-badge&amp;logo=Saweria" alt="Donate">
+Donation : https://saweria.co/dhenbhocil
 ```
