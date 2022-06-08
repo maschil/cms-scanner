@@ -1,7 +1,6 @@
 # Mass Multi Cms Scanner
 
 
-
 Feature
 -------------------
 ``` exe
@@ -17,7 +16,7 @@ Mass Scanner Magento Cms
 Mass Scanner vBulletin Cms
 ```
 # Warning
-* Creat folder result
+* Creat folder Result
 
 Version
 -----
